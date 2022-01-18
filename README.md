@@ -12,8 +12,8 @@
 ## Stats :
 <p align="center">
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avilamatheus&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilamatheus&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=avilamatheus&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilamatheus&theme=tokyonight&count_private=true)
  
 </p>
 
