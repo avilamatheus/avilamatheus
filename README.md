@@ -1,6 +1,6 @@
 - 👋😜 Hi, I’m @avilamatheus
 - 📚💻 I’m currently studying Computer Engineering
-- 📫📧 How to reach me: matheusavila.n@gmail.com
+- 📫📧 How to reach me: matheusavila.n@gmail.com or https://www.linkedin.com/in/matheus-avila-naspolini-3b3016218/
 
 ## Languages I've studied so far :
 <p align="center">
