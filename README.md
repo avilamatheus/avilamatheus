@@ -1,5 +1,5 @@
-- 👋😜 Hi, I’m @avilamatheus
-- 📚💻 I’m currently studying Computer Engineering and working as a Java backend developer at the Computer Security Lab at the Universidade Federal de Santa Catarina.
+- 👋😜 Hi, I’m Matheus Avila!
+- 📚💻 I’m currently studying Computer Engineering at Universidade Federal de Santa Catarina (UFSC) and working as a Java backend developer at the Laboratório de Segurança em Computação (LabSEC), also at the Universidade Federal de Santa Catarina (UFSC).
 - 📫📧 How to reach me: matheusavila.n@gmail.com or https://www.linkedin.com/in/matheus-avila-naspolini-3b3016218/
 - My resume: https://avilamatheus.github.io/MyResume/index.html
 
@@ -16,7 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilamatheus&theme=tokyonight&count_private=true)
  
 </p>
-
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=avilamatheus.avilamatheus)
 [![Github](https://img.shields.io/github/followers/avilamatheus?label=Follow&style=social)](https://github.com/avilamatheus)
