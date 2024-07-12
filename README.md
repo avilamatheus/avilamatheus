@@ -1,15 +1,23 @@
-- 👋😜 Hi, I’m Matheus Avila!
-- 📚💻 I’m currently studying Computer Engineering at Universidade Federal de Santa Catarina (UFSC) and working as a Java backend developer at the Laboratório de Segurança em Computação (LabSEC), also at the Universidade Federal de Santa Catarina (UFSC).
-- 📫📧 How to reach me: matheusavila.n@gmail.com or https://www.linkedin.com/in/matheus-avila-naspolini-3b3016218/
-- My resume: https://avilamatheus.github.io/MyResume/index.html
+<h1>Hi There! 👋</h1>
 
-## Languages I've studied so far :
-<p align="center">
-   <img src="https://user-images.githubusercontent.com/74674584/136396048-48c6feca-088e-4934-b2ce-cf75eebad7a5.png" alt="Cplusplus" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://user-images.githubusercontent.com/74674584/149864579-05dcf20d-4f8c-42d6-ad07-60058b53eead.png" alt="Csharp" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://user-images.githubusercontent.com/74674584/183787608-73d514ba-ce80-4d2e-8518-834079b26b98.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-avila-naspolini-3b3016218/)](https://www.linkedin.com/in/matheus-avila-naspolini-3b3016218/)
+[![Gmail Badge](https://img.shields.io/badge/-matheusavila.n@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusavila.n@gmail.com)](mailto:matheusavila.n@gmail.com)
 
-## Stats :
+## My name is Matheus Avila
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+- 💻 Support Developer @ [Bridge](https://portal.bridge.ufsc.br/)
+- 🎓 Computer Engineering @ [Universidade Federal de Santa Catarina (UFSC)](https://enc.ufsc.br/)
+
+## 
+
 <p align="center">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=avilamatheus&show_icons=true&theme=tokyonight&count_private=true)
