@@ -18,12 +18,5 @@
 
 ## 
 
-<p align="center">
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=avilamatheus&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilamatheus&theme=tokyonight&count_private=true)
- 
-</p>
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=avilamatheus.avilamatheus)
 [![Github](https://img.shields.io/github/followers/avilamatheus?label=Follow&style=social)](https://github.com/avilamatheus)
