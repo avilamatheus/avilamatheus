@@ -88,7 +88,7 @@ Federal University of Santa Catarina (**UFSC**)
 
 ## Current focus
 
-- Java and Spring Boot backend development
+- Full-Stack development
 - Performance tuning for SQL and production systems
 - Incident analysis and operational reliability
 - Internal platforms and developer/support tooling
