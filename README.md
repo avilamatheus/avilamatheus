@@ -23,7 +23,7 @@
 
 ## About me
 
-Software Engineer with experience in **Java backend development**, **complex incident investigation**, and **performance improvement of production applications and databases**.
+Software Engineer with experience in **full-stack development**, **complex incident investigation**, and **performance improvement of production applications and databases**.
 
 I currently work at **Laboratório Bridge**, within the **e-SUS APS / PEC** ecosystem, a national electronic health record system used by a large share of Brazilian municipalities. My work is focused on **root cause analysis**, **performance optimization**, **production support**, and the evolution of applications and database routines with emphasis on **stability, scalability, and operational risk reduction**.
 
@@ -45,7 +45,7 @@ Previously, I worked at **LabSEC/UFSC** as a Java backend developer, contributin
 
 ## Highlights
 
-- Led most of the backend development of **DBHub_**, an internal platform for PostgreSQL server and database operations
+- Contributed significantly to the development of **DBHub_**, an internal platform for PostgreSQL server and database operations
 - Automated database creation, restore, backup, and deletion workflows, increasing support team autonomy
 - Reduced ETL routines from **10+ hours to ~10 minutes** through query refactoring and indexing
 - Reduced critical database migrations from **2+ hours to ~5 minutes** by identifying bottlenecks and improving Oracle/PostgreSQL execution strategies
